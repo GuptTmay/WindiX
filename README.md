@@ -1,4 +1,4 @@
-# WindiX - API-based Weather Reporting Web Application - 
+# WindiX - API-based Weather Reporting Web Application
 #### Video Demo:  <https://youtu.be/2HRVx4BCW6U>
 **Description:** 
 WindiX is a web application designed to provide users with comprehensive weather information for cities around the world. Leveraging a range of cutting-edge technologies and APIs, WindiX offers real-time weather data, interactive maps, geolocation services, and the convenience of saving favorite cities for quick access.
